@@ -2,14 +2,6 @@
 import sys
 
 """
-File_name: rsa
-Created: 28th of May, 2023
-Auth: David James Taiye (Official0mega)
-Size: undefined
-Project: RSA-Factoring-Challenge
-Status: submitted.
-"""
-
 
 def factorization():
 
